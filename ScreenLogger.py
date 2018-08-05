@@ -24,7 +24,6 @@ print "     folder, Happy Hacking ~NSP"
 print "\r\n"
 subprocess.call("pause", shell=True)
 subprocess.call("cls", shell=True)
-subprocess.call("EtherSec.py", shell=True)
 
 def main():
      f= open("Completion.py","w+")
